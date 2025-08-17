@@ -1,0 +1,27 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "\"A simple utility for tracking time and scheduling tasks.\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rostyslav-afk/goit-js-hw-04.git"
+  },
+  "keywords": [
+    "timer",
+    "simple",
+    "timer",
+    "great",
+    "timer"
+  ],
+  "author": "Rostyslav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rostyslav-afk/goit-js-hw-04/issues"
+  },
+  "homepage": "https://github.com/Rostyslav-afk/goit-js-hw-04#readme"
+}
